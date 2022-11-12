@@ -1,0 +1,15 @@
+{
+    "person": {
+        "firstName":"mariessa",
+        "lastName":"pinto"
+    },
+    "work": {
+        "job":"student",
+        "faculty": "Digital Design and Development Diploma",
+        "url": "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/?gclid=Cj0KCQiA37KbBhDgARIsAIzce17d3PVCK5S_wppukwOrRBdJ9bhcMYWArv4BhtsWl-ugQHESNAoXTrAaAmm5EALw_wcB&gclsrc=aw.ds"
+    },
+    "study": {
+        "programs": ["Bachelot of Arts Degree", "French Cohort Program", "Exchange Program"],
+        "department": "Faculty of Arts and Social Science"
+    }
+}
